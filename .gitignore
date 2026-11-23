@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+output/
+*.h5
+*.keras
+*.pkl
+*.joblib
+.pytest_cache/

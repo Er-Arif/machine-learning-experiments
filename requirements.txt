@@ -1,0 +1,5 @@
+# Use a Python version supported by your TensorFlow installation (3.10-3.12 recommended).
+numpy>=1.24,<3
+pandas>=2.0,<3
+scikit-learn>=1.3,<2
+tensorflow>=2.15,<3
